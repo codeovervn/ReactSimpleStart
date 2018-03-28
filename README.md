@@ -26,7 +26,8 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 ################################
 
-```git add .
+```
+git add .
 or:
 git add --all
 ```
